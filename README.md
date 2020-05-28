@@ -1,7 +1,7 @@
 # MPEG - DASH, HSL Stream Downloader
 Provides ease to save MPEG DASH and HLS fragmented videos. Currently this package outputs ffmpeg command for provided m3u8 url, so that you can download it using your command prompt or terminal.
 
-The another main feature is this allows you to select video resolution if m3u8 supports multiple play streams.
+The another main feature is this allows you to select video resolution if m3u8 playlist has Variant playlists.
 
 ## Pre-requisites and Dependencies
 - Python
